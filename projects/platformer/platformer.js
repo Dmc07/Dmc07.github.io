@@ -70,7 +70,7 @@ $(function () {
     // example usage: createCannon(side, position, delay, width, height)
     createCannon("bottom", 800, 500); // cannon on bottom wall, 800px down, shooting once every six second
     createCannon("left", 120, 780); // cannon on left wall, 100px left, shooting once every seven seconds
-    createCannon("bottom", 1000, 470); // cannon on bottom wall, 1000px down,
+    createCannon("bottom", 1000, 490); // cannon on bottom wall, 1000px down,
     
 
 
